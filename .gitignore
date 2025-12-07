@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.dll
+*.so
+
+# Build folders
+/bin/
+/build/
+
+# Go cache
+/go-build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
